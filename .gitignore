@@ -1,0 +1,7 @@
+
+## ---- This is Virtual Env ----- ##
+.venv
+venv
+
+## ----- More ignore ------- ##
+__pycache__
